@@ -1397,7 +1397,7 @@ Ludwig van Beethoven - String Quartets (Quartet - Miró Quartet)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVXXENL4J9VgvLg8dMvoJ7ZV
 
 Ludwig van Beethoven - String Quartets (Quartet - Borodin Quartet)
-https://music.youtube.com/playlist?list=PL4D14bmfCxVXNJ9J11dP_WWYiSZHRahXP
+https://music.youtube.com/playlist?list=PL4D14bmfCxVVM4L3RvHSOvTNLTGDj6jZy
 
 Ludwig van Beethoven - String Quartets (Quartet - Quatuor Ebène)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVVKTCQs4ySDG1bCMyPKuwkA
@@ -5481,3 +5481,9 @@ https://music.youtube.com/playlist?list=PL4D14bmfCxVVRDB7mwSjzr6S2a1EBpwbq
 
 Dmitri Shostakovich - Symphonies (Conductor - Oleg Caetani | Orchestra - Orchestra Sinfonica di Milano Giuseppe Verdi | Choir - Coro e Orchestra Sinfonica di Milano Giuseppe Verdi | Basses - Pavel Kudinov, Mikhail Davidov | Soprano - Marina Poplavskaya)
 https://music.youtube.com/playlist?list=PL4D14bmfCxVWOBeHxwFUDQUdMEWHBOWCl
+
+Dmitri Shostakovich - String Quartets (Quartet - Rubio Quartet)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVXroQlMJ80GZeuggawojUcs
+
+Dmitri Shostakovich - String Quartets (Quartet - Borodin Quartet)
+https://music.youtube.com/playlist?list=PL4D14bmfCxVUzOBXeLxL0WA5V4fun0Ayd
