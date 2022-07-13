@@ -1,3 +1,0 @@
-NAXOS
-8.55 <=> https://www.chandos.net/chanimages/Booklets/NA(4digits).pdf
-8.57 <=> https://www.chandos.net/chanimages/Booklets/NX(4digits).pdf
