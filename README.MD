@@ -58,9 +58,6 @@ There are occasionally a few missing volumes, which I am unable to locate. If yo
 * [DavidHurwitz.txt](Reviews/DavidHurwitz.txt)
     * These are playlists that contain reviews made by the channel [David Hurwitz](https://www.youtube.com/c/DavidHurwitzClassics)
 
-## TO-MAKE Folder [(Click me to jump!)](TO-MAKE)
-* These are what I plan to make playlists of, and will usually contain nitty gritty details of the work, such as the key, the different movements and more :)
-
 ## FAQ
 * Why are there some playlists that are partially complete/empty?
     * This is because YouTube occasionally removes their own auto-generated videos for some reason. I would fix it, but I don't revisit my playlists all the time due to the sheer amount of them there are.
