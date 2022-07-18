@@ -10,19 +10,6 @@ I usually want a single conductor with a single orchestra conducting a cycle of 
 
 The file structure and what you can find is shown below.
 
-## AlbumBooklets [(Click me to jump!)](AlbumBooklets)
-There are occasionally a few missing volumes, which I am unable to locate. If you do manage to locate them, feel free to let me know!
-* [Hyperion](AlbumBooklets/Hyperion)
-    * These are album booklets from the Hyperion record label, merged into one.
-* [MarcoPolo](AlbumBooklets/MarcoPolo)
-    * These are album booklets from the Marco Polo record label, merged into one.
-* [NAXOS](AlbumBooklets/NAXOS)
-    * These are album booklets from the NAXOS record label, merged into one.
-* [Signum Classics](AlbumBooklets/SignumClassics)
-    * These are album booklets from the Signum Classics record label, merged into one.
-* [ImportantReplacements.txt](AlbumBooklets/ImportantReplacements.txt)
-    * These are what I use to merge album booklets together
-
 ## Educational [(Click me to jump!)](Educational)
 * [ArturPizarro_TheBeethovenSonataCycle.pdf](Educational/ArturPizarro_TheBeethovenSonataCycle.pdf)
     * These are not tiny write-ups by the pianist Artur Pizzaro on the 32 piano sonatas by Beethoven
