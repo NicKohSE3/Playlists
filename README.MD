@@ -48,3 +48,6 @@ The file structure and what you can find is shown below.
 ## FAQ
 * Why are there some playlists that are partially complete/empty?
     * This is because YouTube occasionally removes their own auto-generated videos for some reason. I would fix it, but I don't revisit my playlists all the time due to the sheer amount of them there are.
+
+## Feel free to check out my other Classical Music repositories!
+[Playlists](https://github.com/NicKohSE3/Playlists)
