@@ -51,3 +51,4 @@ The file structure and what you can find is shown below.
 
 ## Feel free to check out my other Classical Music repositories!
 * [Album Booklets](https://github.com/NicKohSE3/Album-Booklets)
+* [NAXOS-Music-Catalogues](https://github.com/NicKohSE3/NAXOS-Music-Catalogues)
