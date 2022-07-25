@@ -1,4 +1,4 @@
-# My YouTube channel has been removed from the site recently for supposed "Spam, scams or commercially deceptive content": I have made an appeal and am awaiting a response.
+# My YouTube channel has been removed from the site recently for supposed "Spam, scams or commercially deceptive content": I have made an appeal and am awaiting a response. UPDATE: I have received a response but YouTube insists that my channel has broke their Terms of Service. I will continue to push them until I get my channel back.
 ![Removed](https://media.discordapp.net/attachments/959396399882076160/996586653554589746/unknown.png?width=1429&height=670)
 
 
